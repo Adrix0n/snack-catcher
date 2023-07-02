@@ -1,0 +1,1 @@
+Player have 60 seconds to collect as much snacks as possible. The snacks show up in room for certain period of time. To collect snack, player just need to click on the icon of the snack. When times up, final point result is showed and the game ends.
